@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- [EX 1VS 02.pdf](https://github.com/SIVAmech123/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/14522052/EX.1VS.02.pdf)
+ <img width="505" alt="Screenshot 2024-03-07 150946" src="https://github.com/SIVAmech123/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/151629067/243da6a5-2589-4ae8-b6ce-6b4c9fe83158">
 
 
  ## RESULT
